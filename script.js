@@ -52,6 +52,7 @@ function generatePassword(){
       
     }
   }
+  //console logs help to keep track of what is working and to help point errors in the js in devtools
   console.log("constant",constant)
   
   

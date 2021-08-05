@@ -7,3 +7,6 @@ For this homework assignment I was tasked with creating a random password genera
 * A math floor was created so I would be able to get whole numbers.
 * The string statements in the js do have some slight variation in the worind to give the experience some character.
 
+https://github.com/ZackDavis97/ZDPasswordGenerator
+
+https://zackdavis97.github.io/ZDPasswordGenerator/
